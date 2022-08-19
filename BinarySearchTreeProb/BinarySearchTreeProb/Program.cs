@@ -30,8 +30,8 @@ namespace BinaryTree
 
             //UC2:Find the size of tree
 
-            //int Size = BinaryTree.GetSize();
-            //Console.WriteLine(Size);
+            int Size = BinaryTree.GetSize();
+            Console.WriteLine(Size);
 
             //UC3:Serach node through the tree
 
