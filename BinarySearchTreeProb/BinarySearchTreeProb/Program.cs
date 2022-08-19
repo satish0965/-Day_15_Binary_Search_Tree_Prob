@@ -35,8 +35,8 @@ namespace BinaryTree
 
             //UC3:Serach node through the tree
 
-            //bool result = BinaryTree.SearchKey(63);
-            //Console.WriteLine(result);
+            bool result = BinaryTree.SearchKey(63);
+            Console.WriteLine(result);
 
 
         }
